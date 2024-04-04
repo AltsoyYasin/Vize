@@ -1,1 +1,2 @@
-Ayakkabı Pazarına tıkla ihtiyacın olan herşey orda
+Ayakkabı Pazarına tıkla ihtiyacın olan herşey 
+orda
